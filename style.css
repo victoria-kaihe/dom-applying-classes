@@ -25,6 +25,10 @@ div.green {
   background-color: green;
 }
 
+div.pink {
+  background-color: pink;
+}
+
 .invisible {
   display: none;
 }
